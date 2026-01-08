@@ -1,3 +1,5 @@
+![Logo](https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/37a8c8162210335.63d1b5f26ee3a.jpg)
+
 # 🎭 Tunantada 2026 – Sitio Oficial
 
 Tunantada 2026 es la plataforma digital oficial dedicada a la difusión, promoción y puesta en valor de la Festividad de la Tunantada, una de las expresiones culturales más representativas de Jauja, Junín y del Perú.
