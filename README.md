@@ -1,70 +1,76 @@
-# Getting Started with Create React App
+# 🎭 Tunantada 2026 – Sitio Oficial
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Tunantada 2026 es la plataforma digital oficial dedicada a la difusión, promoción y puesta en valor de la Festividad de la Tunantada, una de las expresiones culturales más representativas de Jauja, Junín y del Perú.
 
-## Available Scripts
+Este sitio nace con el objetivo de acercar la Tunantada al mundo, brindando información clara, visual y confiable tanto a la población local como a visitantes nacionales e internacionales.
 
-In the project directory, you can run:
+## 🌎 Sobre la Tunantada
 
-### `npm start`
+La Tunantada es una danza tradicional que simboliza la identidad, historia y memoria colectiva del pueblo jaujino.
+Reconocida como Patrimonio Cultural de la Nación, se celebra cada año durante el mes de enero, congregando a comparsas, músicos, familias y visitantes en una manifestación única de tradición viva.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+📅 Fechas: del 19 al 25 de enero
+📍 Lugar: Jauja, Junín – Perú
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## ✨ ¿Qué ofrece el sitio oficial?
 
-### `npm test`
+El sitio tunantada.info ha sido concebido como una experiencia cultural digital, con las siguientes secciones principales:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Presentación visual de la festividad
+- Historia y significado cultural
+- Personajes tradicionales de la Tunantada
+- Programa oficial de actividades
+- Contador regresivo a la fecha de inicio
+- Acceso para agendar la festividad en el calendario personal
 
-### `npm run build`
+Todo el contenido está orientado a informar, educar y despertar el interés turístico y cultural.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## ⏳ Cuenta regresiva a la festividad
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+El sitio incluye un contador regresivo que marca el tiempo restante para el inicio de la Tunantada, reforzando la expectativa y emoción previa al evento.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Este elemento busca generar:
 
-### `npm run eject`
+- Anticipación
+- Recordación de fechas
+- Mayor participación del público
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🗓️ Agendar la Tunantada
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Los visitantes pueden agregar la festividad a su calendario personal, facilitando la planificación de viajes, visitas y participación en las actividades oficiales.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Una herramienta pensada especialmente para turistas y público externo.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🎯 Objetivo cultural y turístico
 
-## Learn More
+Tunantada.info tiene como finalidad:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Promover la identidad cultural de Jauja
+- Fortalecer la difusión turística
+- Centralizar información oficial
+- Servir como referencia digital de la festividad
+- Proyectar la Tunantada a nivel nacional e internacional
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## ⚠️ Uso del contenido
 
-### Code Splitting
+- Este sitio es una plataforma de difusión cultural y turística.
+- No está destinado a la reutilización técnica
+- No permite copias, bifurcaciones ni reproducciones del contenido
+- El material presentado tiene fines informativos, culturales y patrimoniales
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🤝 Institucional
 
-### Analyzing the Bundle Size
+Tunantada.info se proyecta como un espacio oficial y de confianza, abierto a la articulación con:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Instituciones culturales
+- Entidades turísticas
+- Municipalidades
+- Organizaciones culturales
+- Medios de comunicación
 
-### Making a Progressive Web App
+## 🇵🇪 Identidad viva
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+La Tunantada no es solo una danza.
+Es memoria, identidad y celebración viva del pueblo de Jauja.
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Tunantada 2026 es la puerta digital para conocerla, vivirla y compartirla.
