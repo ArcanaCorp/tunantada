@@ -1,0 +1,35 @@
+.--home-program .--program-list .--program-item {
+    height: 180px;
+    cursor: pointer;
+}
+
+.--home-program .--program-titler h2 {
+    font-size: clamp(2rem, 4vw, 3.5rem);
+}
+
+.--home-program .--program-list .--program-item picture img {
+    transition: transform 0.6s ease;
+}
+
+.--home-program .--program-list .--program-item:hover picture img {
+    transform: scale(1.08);
+}
+
+.--home-program .--program-list .--program-item .--program-item-overlay {
+    inset: 0;
+    background: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.65));
+}
+
+.--home-program .--program-list .--program-item .--program-item-overlay h3 {
+    font-size: clamp(2rem, 4vw, 3.5rem);
+}
+
+
+@media (min-width: 1024px) {
+    .--home-program .--program-list .--program-item {
+        height: 380px;
+    }
+    .--home-program .--program-list .--program-item .--program-item-overlay p {
+        max-width: 40%;
+    }
+}

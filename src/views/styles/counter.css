@@ -1,0 +1,38 @@
+.--home-counter {
+    height: 100dvh;
+}
+
+.--home-counter .counter-overlay {
+    inset: 0;
+    background: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.65));
+}
+
+.--home-counter .counter-overlay .counter-content {
+    margin-left: 5%;
+}
+
+.--home-counter .counter-overlay .counter-content .title {
+    font-size: clamp(2rem, 4vw, 3.5rem);
+}
+
+.--home-counter .counter-overlay .counter-content .counter-grid .flex span {
+    font-size: clamp(2rem, 4vw, 3.5rem);
+}
+
+.--home-counter .counter-overlay .counter-content .counter-cta .btn-secondary {
+    border: 1px solid var(--color-white);
+}
+
+.--home-counter .counter-overlay .counter-content .counter-cta .btn-secondary:hover {
+    color: var(--color-dark);
+    background-color: var(--color-white);
+}
+
+
+@media (min-width: 1024px) {
+
+    .--home-counter .hero-overlay .hero-content {
+        max-width: 45%;
+    }
+
+}

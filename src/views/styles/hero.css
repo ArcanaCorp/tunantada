@@ -1,0 +1,38 @@
+.--home-hero {
+    height: 100dvh;
+}
+
+.--home-hero .hero-overlay {
+    inset: 0;
+    background: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.65));
+}
+
+.--home-hero .hero-overlay .hero-content {
+    margin-left: 5%;
+}
+
+.--home-hero .hero-overlay .hero-content h1 {
+    font-size: clamp(2rem, 4vw, 3.5rem);
+}
+
+.--home-hero .hero-overlay .hero-content p {
+    line-height: 32px;
+}
+
+.--home-hero .hero-overlay .hero-content .hero-cta .btn-secondary {
+    border: 1px solid var(--color-white);
+}
+
+.--home-hero .hero-overlay .hero-content .hero-cta .btn-secondary:hover {
+    color: var(--color-dark);
+    background-color: var(--color-white);
+}
+
+
+@media (min-width: 1024px) {
+
+    .--home-hero .hero-overlay .hero-content {
+        max-width: 45%;
+    }
+
+}

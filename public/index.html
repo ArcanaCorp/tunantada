@@ -1,43 +1,83 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="theme-color" content="#000000" />
-    <meta
-      name="description"
-      content="Web site created using create-react-app"
-    />
-    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
-    <!--
-      manifest.json provides metadata used when your web app is installed on a
-      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
-    -->
+
+    <title>Tunantada 2026 | Danza Tradicional de Jauja – Patrimonio Cultural</title>
+
+    <!-- SEO básico -->
+    <meta name="description" content="La Tunantada es la danza tradicional más representativa de Jauja, Perú. Conoce su historia, personajes, programa oficial 2026 y el significado cultural de esta festividad patrimonial." />
+
+    <meta name="keywords" content="Tunantada, Tunantada Jauja, Tunantada 2026, danza tunantada, Jauja turismo, fiestas de Jauja, cultura peruana, danzas tradicionales del Perú" />
+
+    <meta name="author" content="Tunantada.info" />
+    <meta name="robots" content="index, follow" />
+
+    <!-- Open Graph (Facebook / WhatsApp) -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Tunantada 2026 | Patrimonio Cultural de Jauja" />
+    <meta property="og:description" content="Descubre la historia, personajes y el programa oficial de la Tunantada, la danza que representa la identidad cultural de Jauja." />
+    <meta property="og:url" content="https://tunantada.info/" />
+    <meta property="og:image" content="%PUBLIC_URL%/og-tunantada.jpg" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Tunantada 2026 | Danza Tradicional de Jauja" />
+    <meta name="twitter:description" content="Historia, cultura y programa oficial de la Tunantada, danza emblemática de Jauja." />
+    <meta name="twitter:image" content="%PUBLIC_URL%/og-tunantada.jpg" />
+
+    <!-- PWA / Icons -->
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-    <!--
-      Notice the use of %PUBLIC_URL% in the tags above.
-      It will be replaced with the URL of the `public` folder during the build.
-      Only files inside the `public` folder can be referenced from the HTML.
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
 
-      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
-      work correctly both with client-side routing and a non-root public URL.
-      Learn how to configure a non-root public URL by running `npm run build`.
-    -->
-    <title>React App</title>
-  </head>
-  <body>
-    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <!-- Canonical -->
+    <link rel="canonical" href="https://tunantada.info/" />
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Event",
+            "name": "Tunantada 2026",
+            "description": "La Tunantada es una danza tradicional y festividad cultural representativa de Jauja, Perú, celebrada cada enero como expresión viva de identidad y patrimonio cultural.",
+            "startDate": "2026-01-19",
+            "endDate": "2026-01-25",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "location": {
+                "@type": "Place",
+                "name": "Ciudad de Jauja",
+                "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Jauja",
+                "addressRegion": "Junín",
+                "addressCountry": "PE"
+                }
+            },
+            "image": [
+                "https://tunantada.info/og-tunantada.jpg"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "Tunantada",
+                "url": "https://tunantada.info"
+            },
+            "inLanguage": "es-PE"
+        }
+    </script>
+
+</head>
+
+<body>
+    <noscript>Esta página requiere JavaScript para funcionar correctamente.</noscript>
     <div id="root"></div>
-    <!--
-      This HTML file is a template.
-      If you open it directly in the browser, you will see an empty page.
-
-      You can add webfonts, meta tags, or analytics to this file.
-      The build step will place the bundled scripts into the <body> tag.
-
-      To begin the development, run `npm start` or `yarn start`.
-      To create a production bundle, use `npm run build` or `yarn build`.
-    -->
-  </body>
+</body>
 </html>
